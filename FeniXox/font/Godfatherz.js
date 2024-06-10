@@ -1,3 +1,3 @@
 {
-	"name": "mr.Robot Bot Multi Device "
+	"name": "AM꙰M꙰U꙰ Bot Multi Device "
 }
