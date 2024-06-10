@@ -1,7 +1,7 @@
 {
-    "name": "Godfatherz-Bot-MD",
+    "name": "🤍⃞𝄟ꪶ𝐒͢ʏ᪳ᴀ͓ᴍ͎ ͢𝐒ᴇ͓ꪳʀ͎𖦻⃞🍓",
     "version": "13.0.0",
-    "description": "Whatsapp Bot By DGFenix",
+    "description": "Whatsapp Bot By Syam~xer",
     "main": "index.js",
     "type": "commonjs",
     "directories": {
@@ -12,7 +12,7 @@
     "scripts": {
         "start": "node index.js"
     },
-    "author": "Fenix",
+    "author": "Syam-ser",
     "license": "MIT",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.7.2",
