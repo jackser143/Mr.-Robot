@@ -18,20 +18,20 @@ Trace:
 
 npm manifest: 
   {
-      "name": "Godfatherz-Bot-MD",
+      "name": "🤍⃞𝄟ꪶ𝐒͢ʏ᪳ᴀ͓ᴍ͎ ͢𝐒ᴇ͓ꪳʀ͎𖦻⃞🍓",
       "version": "13.0.0",
-      "description": "Whatsapp Bot By DGFenix",
+      "description": "Whatsapp Bot By Syam~ser",
       "main": "index.js",
       "type": "commonjs",
       "directories": {
           "lib": "lib",
           "src": "src",
-          "media": "FeniXox"
+          "media": "_mr.fro_ud_"
       },
       "scripts": {
           "start": "node index.js"
       },
-      "author": "Fenix",
+      "author": "Syam~Xer",
       "license": "MIT",
       "dependencies": {
           "@whiskeysockets/baileys": "^6.7.2",
