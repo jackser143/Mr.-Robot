@@ -7,7 +7,7 @@
     "directories": {
         "lib": "lib",
         "src": "src",
-        "media": "FeniXox"
+        "media": "_mr.fro_ud_"
     },
     "scripts": {
         "start": "node index.js"
