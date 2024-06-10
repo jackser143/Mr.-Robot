@@ -4,7 +4,11 @@ const fs = require('fs')
 
 global.allmenu = (prefix, hituet) => {
 return`
-*MR.ROBOT WA ASSISTANT*
+*MS. 
+
+ᾲ̵̧̜̟͇̮̪̠̺̞͎̠̠̜͒̓̒̆́͋м̷̧̛͈̯̇̑̈́͌̔̇̑͊̏̈́́̆ͅ꙰̶̞̗͚̜̺͚͚̬͗̇̄͂̈́͌̚м̸̛͉̮͖̯͙͎̩̓̿̈́́͆̆̏͆̿̚꙰̴̨̀́̐̒̇́̈ㄩ̸̡͚̻̼͔͕́͂̌̂̂̒꙰̶͙̀̽͑́͑̇́͝
+
+BOT WA ASSISTANT*
 
 ╭––『 Owner Menu 』
 ┆ *⋊* ${prefix}autoread 
