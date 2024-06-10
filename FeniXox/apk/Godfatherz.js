@@ -1,3 +1,3 @@
 {
-	"name": "mr.Robot Bot Multi Device "
+	"name": " Syam_zer Multi Device "
 }
