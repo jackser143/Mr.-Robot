@@ -1,13 +1,13 @@
 
 /*
 
-F E N I X - V 15
-             MADE BY F E N I X ID SERVER
+*✪⃝⸸ꜛꪶ͢𝐒𝐘͔𝐀𝐌 𝐒𝐄𝐑͢ꫂꜜ™*
+             MADE BY SYAM~SER
        
-✅ WhatsApp: wa.me/94773010580
-👥 Github: https://github.com/Fenix-server
-👥 Github: https://github.com/Botdevillozan
-🤖 Youtube https://youtube.com/@fenix_programmer
+✅ WhatsApp: wa.me/13025449902
+👥 Github: THARULLA
+👥 Github: NEHI, 
+🤖 Youtube : NOT¯–_-¯ YET
 */
 
 
